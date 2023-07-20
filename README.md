@@ -18,7 +18,7 @@ Follow these steps to set up Smack on your local development environment:
 1. Clone the Smack repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/HardiB-Salih/smack.git
+git clone https://github.com/HardiB-Salih/Smack.git
 ```
 
 2. Navigate to the project directory:
